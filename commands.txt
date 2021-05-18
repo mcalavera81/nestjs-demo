@@ -1,0 +1,12 @@
+#Create a module
+nest g module aggregations
+nest g service aggregations
+
+
+yarn add class-validator class-transformer
+
+yarn add @nestjs/typeorm typeorm pg
+
+yarn add @nestjs/passport @nestjs/jwt passport passport-jwt
+
+yarn add config
